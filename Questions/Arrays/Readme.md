@@ -1,4 +1,6 @@
-    Que: Given N array elements, count number of elements having atlist 1 element, greater than itself. (No library functions)
+Question
+--
+Given N array elements, count number of elements having atlist 1 element, greater than itself. (No library functions)
 
 TC: O(N)
 
